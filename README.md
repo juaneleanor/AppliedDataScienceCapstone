@@ -34,7 +34,9 @@ The project is structured into the following main sections:
 - **Beautiful Soup**: For web scraping and extracting data from HTML and XML files.
 - **SpaceX REST API**: For accessing and retrieving data related to SpaceX launches and other information.
 - **SQLite**: For managing and querying the dataset using a lightweight, relational database management system.
+- **Requests**: For making HTTP requests to APIs and retrieving data.
 - **Jupyter Notebook**: For organizing and presenting the analysis and findings.
+- **PowerPoint**: For creating and presenting a slide deck summarizing the project's key points.
 
 ## Acknowledgements
 
